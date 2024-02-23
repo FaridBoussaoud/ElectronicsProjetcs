@@ -48,6 +48,8 @@ The contents of the directory are as follows :
 
 ## Prerequisites
 
+![Arduino_project_equipments][def]
+
 - MATLAB SIMULINK
 - ARDUINO
 - Temperature sensors (for Arduino)
@@ -68,3 +70,6 @@ Challenges were encountered during the initial setup of the development environm
 ## License
 
 © [2024] [BOUSSAOUD]
+
+
+[def]: https://github.com/FaridBoussaoud/ElectronicsProjetcs/assets/132162114/fe0fc8c9-c80a-47c8-91a1-82c3ba10215f
